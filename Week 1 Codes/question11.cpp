@@ -30,5 +30,5 @@ int main(){
     cin >> a[i];
 
   longestIncSubsequence(a, n);
-  return 0;
+  return 1;
 }
