@@ -32,5 +32,5 @@ int main(){
   cin >> key;
   majorityCheck(a, n, key);
 
-  return 0;
+  return 1;
 }
