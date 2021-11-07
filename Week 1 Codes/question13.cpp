@@ -36,5 +36,5 @@ int main(){
 
   cout << endl << "The first occurance of 1 is at index: " << transitionPoint() << endl;
 
-  return 1;
+  return 0;
 }
