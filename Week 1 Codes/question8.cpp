@@ -23,5 +23,5 @@ int main(){
     cin >> a[i];
   cout << endl << "The max element is: " << maxElement(a, 0, n-1) << endl;
 
-  return 1;
+  return 0;
 }
