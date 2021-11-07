@@ -35,5 +35,5 @@ int main(){
     cin >> a[i];
   findSubArray(a, n);
 
-  return 1;
+  return 0;
 }
