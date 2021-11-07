@@ -46,5 +46,5 @@ int main(){
     cin >> b[i];
 
   mergeArrays(a, b, c, n);
-  return 1;
+  return 0;
 }
